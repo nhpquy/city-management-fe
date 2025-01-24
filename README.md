@@ -18,7 +18,8 @@ The City Management System frontend is a **React-based** application that provid
 ### 1. Clone the Repository
 
 ```bash
-cd City-Management/frontend
+git clone git@github.com:nhpquy/city-management-fe.git
+cd city-management-fe
 ```
 
 ### 2. Install Dependencies
